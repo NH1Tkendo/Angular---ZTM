@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "265ffeee317905c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34630084361341e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2857b55bc809a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Getting Started/1-5 Setting Up An Angular Development Environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-5 Setting Up An Angular Development Environment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e3d3f03dec55ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "578799c922b41f60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929cd4fe6c7fc337",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "682467ddfd3225e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3d00a8d03aa151f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25a3109111c453d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "052ea33737d737d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15fedeedff1dcdd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Getting Started/1-1 What Exactly Is Angular.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-1 What Exactly Is Angular"
+            }
+          },
+          {
+            "id": "a329a37082ce250f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Getting Started/1-1 What Exactly Is Angular.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-1 What Exactly Is Angular"
+            }
+          },
+          {
+            "id": "03dbd115591884a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd88d326d9a97959",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9b89fe624e2a0d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Getting Started/1-1 What Exactly Is Angular.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-1 What Exactly Is Angular"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f2857b55bc809a13",
+  "lastOpenFiles": [
+    "ThucHanh/first-angular-app/node_modules/browserslist/README.md",
+    "ThucHanh/first-angular-app/node_modules/browserslist/parse.js",
+    "ThucHanh/first-angular-app/node_modules/browserslist/package.json",
+    "ThucHanh/first-angular-app/node_modules/browserslist/node.js",
+    "ThucHanh/first-angular-app/node_modules/browserslist/LICENSE",
+    "ThucHanh/first-angular-app/node_modules/browserslist/index.js",
+    "ThucHanh/first-angular-app/node_modules/browserslist/index.d.ts",
+    "ThucHanh/first-angular-app/node_modules/browserslist/cli.js",
+    "ThucHanh/first-angular-app/node_modules/browserslist/error.js",
+    "ThucHanh/first-angular-app/node_modules/browserslist/error.d.ts",
+    "ThucHanh/first-angular-app/node_modules/browserslist/browser.js",
+    "ThucHanh/first-angular-app/node_modules/@vitest/runner/README.md",
+    "ThucHanh/first-angular-app/node_modules/@rollup/rollup-win32-x64-gnu/README.md",
+    "ThucHanh/first-angular-app/node_modules/eventemitter3/README.md",
+    "ThucHanh/first-angular-app/node_modules/domelementtype/readme.md",
+    "ThucHanh/first-angular-app/node_modules/escape-html/Readme.md",
+    "ThucHanh/first-angular-app/node_modules/qs/README.md",
+    "ThucHanh/first-angular-app/node_modules/qs/LICENSE.md",
+    "ThucHanh/first-angular-app/node_modules/qs/CHANGELOG.md",
+    "ThucHanh/first-angular-app/node_modules/promise-retry/README.md",
+    "ThucHanh/first-angular-app/node_modules/@napi-rs/nice-win32-x64-msvc/README.md",
+    "ThucHanh/first-angular-app/node_modules/unpipe/README.md",
+    "ThucHanh/first-angular-app/node_modules/err-code/README.md",
+    "ThucHanh/first-angular-app/node_modules/side-channel/README.md",
+    "ThucHanh/first-angular-app/node_modules/side-channel/CHANGELOG.md",
+    "ThucHanh/first-angular-app/node_modules/is-core-module/README.md",
+    "ThucHanh/first-angular-app/node_modules/is-core-module/CHANGELOG.md",
+    "ThucHanh/first-angular-app/node_modules/supports-preserve-symlinks-flag/README.md",
+    "ThucHanh/first-angular-app/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "ThucHanh/first-angular-app/node_modules/hasown/README.md",
+    "ThucHanh/first-angular-app/node_modules/hasown/CHANGELOG.md",
+    "ThucHanh/first-angular-app/node_modules/is-extglob/README.md",
+    "ThucHanh/first-angular-app/node_modules/get-intrinsic/README.md",
+    "ThucHanh/first-angular-app/node_modules/get-intrinsic/CHANGELOG.md",
+    "ThucHanh/first-angular-app/node_modules/es-errors/README.md",
+    "ThucHanh/first-angular-app/node_modules/es-errors/CHANGELOG.md"
+  ]
+}
