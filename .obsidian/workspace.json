@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c34630084361341e",
+        "id": "6ebf443c667e4e53",
         "type": "tabs",
         "children": [
           {
-            "id": "f2857b55bc809a13",
+            "id": "e81df5a59a145f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Getting Started/1-5 Setting Up An Angular Development Environment.md",
+                "file": "2. Angular Essentials - Components, Templates, Service & More/2-13 Outputting Dynamic Content with String Interpolation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-5 Setting Up An Angular Development Environment"
+              "title": "2-13 Outputting Dynamic Content with String Interpolation"
             }
           }
         ]
@@ -183,19 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "f2857b55bc809a13",
+  "active": "e81df5a59a145f31",
   "lastOpenFiles": [
+    "2. Angular Essentials - Components, Templates, Service & More/2-12 Storing Data in a Component Class.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-13 Outputting Dynamic Content with String Interpolation.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-11 Preparing User Data (To Output Dynamic Content).md",
+    "ThucHanh/first-angular-app/src/assets/users/user-6.jpg",
+    "ThucHanh/first-angular-app/src/assets/users/user-5.jpg",
+    "ThucHanh/first-angular-app/src/assets/users/user-4.jpg",
+    "ThucHanh/first-angular-app/src/assets/users/user-3.jpg",
+    "ThucHanh/first-angular-app/src/assets/users/user-2.jpg",
+    "ThucHanh/first-angular-app/src/assets/users/user-1.jpg",
+    "ThucHanh/first-angular-app/src/assets/users",
+    "ThucHanh/first-angular-app/src/app/dummy-user.ts",
+    "2. Angular Essentials - Components, Templates, Service & More/2-10 Styling & Using Our Next Custom Component.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-9 Managing & Creating Components with the Angular CLI.md",
+    "ThucHanh/first-angular-app/src/app/user/user.spec.ts",
+    "ThucHanh/first-angular-app/src/app/user/user.ts",
+    "ThucHanh/first-angular-app/src/app/user/user.html",
+    "ThucHanh/first-angular-app/src/app/user/user.css",
+    "ThucHanh/first-angular-app/src/app/user",
+    "ThucHanh/first-angular-app/src/app/header/header.component.ts",
+    "ThucHanh/first-angular-app/src/app/header/header.component.html",
+    "ThucHanh/first-angular-app/src/app/header/header.component.css",
+    "2. Angular Essentials - Components, Templates, Service & More/2-8 Styling the Header Component & Adding An Image.md",
+    "ThucHanh/first-angular-app/src/assets/task-management-logo.png",
+    "ThucHanh/first-angular-app/src/app/assets/task-management-logo.png",
+    "ThucHanh/first-angular-app/public/task-management-logo.png",
+    "2. Angular Essentials - Components, Templates, Service & More/2-7 Using the Custom Component.md",
+    "md_assets/Component-Tree.png",
+    "2. Angular Essentials - Components, Templates, Service & More/2-6 Configuring the Custom Component.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-4 Creating a First Custom Component.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-5 JavaScript Refresher Classes, Properties & More.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-3 Understanding Components & How Content Ends Up On The Screen.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-2 A New Starting Project & Analyzing The Project Structure.md",
+    "2. Angular Essentials - Components, Templates, Service & More/2-1 Module Introduction.md",
+    "1. Getting Started/1-5 Setting Up An Angular Development Environment.md",
     "ThucHanh/first-angular-app/node_modules/browserslist/README.md",
-    "ThucHanh/first-angular-app/node_modules/browserslist/parse.js",
-    "ThucHanh/first-angular-app/node_modules/browserslist/package.json",
-    "ThucHanh/first-angular-app/node_modules/browserslist/node.js",
-    "ThucHanh/first-angular-app/node_modules/browserslist/LICENSE",
-    "ThucHanh/first-angular-app/node_modules/browserslist/index.js",
-    "ThucHanh/first-angular-app/node_modules/browserslist/index.d.ts",
-    "ThucHanh/first-angular-app/node_modules/browserslist/cli.js",
-    "ThucHanh/first-angular-app/node_modules/browserslist/error.js",
-    "ThucHanh/first-angular-app/node_modules/browserslist/error.d.ts",
-    "ThucHanh/first-angular-app/node_modules/browserslist/browser.js",
     "ThucHanh/first-angular-app/node_modules/@vitest/runner/README.md",
     "ThucHanh/first-angular-app/node_modules/@rollup/rollup-win32-x64-gnu/README.md",
     "ThucHanh/first-angular-app/node_modules/eventemitter3/README.md",
@@ -206,20 +230,6 @@
     "ThucHanh/first-angular-app/node_modules/qs/CHANGELOG.md",
     "ThucHanh/first-angular-app/node_modules/promise-retry/README.md",
     "ThucHanh/first-angular-app/node_modules/@napi-rs/nice-win32-x64-msvc/README.md",
-    "ThucHanh/first-angular-app/node_modules/unpipe/README.md",
-    "ThucHanh/first-angular-app/node_modules/err-code/README.md",
-    "ThucHanh/first-angular-app/node_modules/side-channel/README.md",
-    "ThucHanh/first-angular-app/node_modules/side-channel/CHANGELOG.md",
-    "ThucHanh/first-angular-app/node_modules/is-core-module/README.md",
-    "ThucHanh/first-angular-app/node_modules/is-core-module/CHANGELOG.md",
-    "ThucHanh/first-angular-app/node_modules/supports-preserve-symlinks-flag/README.md",
-    "ThucHanh/first-angular-app/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
-    "ThucHanh/first-angular-app/node_modules/hasown/README.md",
-    "ThucHanh/first-angular-app/node_modules/hasown/CHANGELOG.md",
-    "ThucHanh/first-angular-app/node_modules/is-extglob/README.md",
-    "ThucHanh/first-angular-app/node_modules/get-intrinsic/README.md",
-    "ThucHanh/first-angular-app/node_modules/get-intrinsic/CHANGELOG.md",
-    "ThucHanh/first-angular-app/node_modules/es-errors/README.md",
-    "ThucHanh/first-angular-app/node_modules/es-errors/CHANGELOG.md"
+    "ThucHanh/first-angular-app/node_modules/unpipe/README.md"
   ]
 }
