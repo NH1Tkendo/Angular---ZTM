@@ -15,10 +15,10 @@ export class App {
   protected readonly title = signal('first-angular-app');
   users = DUMMY_USERS;
 
-  selectedUserID = 'u1';
+  selectedUserID?: string;
 
   get selectedUser() {
-    return this.users.find((user) => user.id === this.selectedUserID)!;
+    return this.users.find((user) => user.id === this.selectedUserID);
   }
   onSelectedUser(id: string) {
     this.selectedUserID = id;
