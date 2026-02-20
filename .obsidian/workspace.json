@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Time to Practice/3-15 Module Summary.md",
+                "file": "4. Debugging Angular Apps/4-4 Exploring the Angular DevTools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-15 Module Summary"
+              "title": "4-4 Exploring the Angular DevTools"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "e81df5a59a145f31",
   "lastOpenFiles": [
-    "3. Time to Practice/3-14 Using Signals in Services.md",
+    "4. Debugging Angular Apps/4-3 Debugging Logical Errors with the Browser DevTools & Breakpoints.md",
+    "4. Debugging Angular Apps/4-4 Exploring the Angular DevTools.md",
+    "4. Debugging Angular Apps/4-2 Understanding Error Messages & Fixing Errors.md",
+    "4. Debugging Angular Apps/4-1 Module Introduction.md",
     "3. Time to Practice/3-15 Module Summary.md",
+    "4. Debugging Angular Apps",
+    "3. Time to Practice/3-14 Using Signals in Services.md",
     "3. Time to Practice/3-13 Using a Service for Cross-Component Communication.md",
     "3. Time to Practice/3-12 Using Signals & Resetting The Form After Submission.md",
     "3. Time to Practice/3-11 Formatting Output with a Pipe.md",
@@ -206,7 +211,6 @@
     "3. Time to Practice/3-4 Handling Form Submission.md",
     "ThucHanh/investment-caculator/node_modules/@angular/common/fesm2022/_xhr-chunk.mjs.map",
     "ThucHanh/investment-caculator/node_modules/@angular/common/fesm2022/_xhr-chunk.mjs",
-    "ThucHanh/investment-caculator/node_modules/@angular/common/fesm2022/_platform_navigation-chunk.mjs.map",
     "ThucHanh/investment-caculator/node_modules/chai/README.md",
     "3. Time to Practice/3-3 Adding a User Input Component.md",
     "3. Time to Practice/3-2 Adding a Header Component With An Image.md",
@@ -218,10 +222,6 @@
     "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/mcp/resources/best-practices.md",
     "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/mcp/resources/ai-tutor.md",
     "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/test/long-description.md",
-    "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/add/long-description.md",
-    "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/cache/long-description.md",
-    "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/update/long-description.md",
-    "ThucHanh/investment-caculator/node_modules/@angular/cli/src/commands/build/long-description.md",
     "ThucHanh/01-starting-project/public/investment-calculator-logo.png",
     "md_assets/Signal.png",
     "md_assets/What-Is-Singal.png",
